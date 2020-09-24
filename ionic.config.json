@@ -1,0 +1,7 @@
+{
+  "name": "rsp-detector",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
